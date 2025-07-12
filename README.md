@@ -1,0 +1,1 @@
+In class we had to make a program to simulate a monopoly game, but using animals instead of proprty. We did this in teams and I was responsible for making the board class and intergrating it all into the main class.
